@@ -1,4 +1,4 @@
-##Coded by the jatin kalwar  
+##Coded by the suheal .
 ##Don't steal my code read license21  
 ## if you use any part of code then give me credit
 import zlib
